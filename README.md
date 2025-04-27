@@ -1,9 +1,7 @@
 <p align="center">
 <img src=".github/assets/preview.png">
 
-
 Minisite offers a sleek portfolio solution for creating your personal showcase website. Built for speed and simplicity, this lightweight template remains fully adaptable to match your unique style. Ideal for creative professionals including developers seeking to display their projects. Get started by exploring the site and forking the repository.
-
 
 ## Features
 
@@ -23,5 +21,3 @@ Minisite offers a sleek portfolio solution for creating your personal showcase w
 ## Documentation
 
 To get started with minisite, check out the [Guides](https://minisite-psi.vercel.app/guides).
-
-

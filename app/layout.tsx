@@ -11,8 +11,8 @@ import { Inter } from "next/font/google";
 export const metadata: Metadata = {
   ...OpenGraph,
   icons: {
-    icon: '/favicon.ico',
-    shortcut: '/favicon.ico',
+    icon: "/favicon.ico",
+    shortcut: "/favicon.ico",
   },
 };
 

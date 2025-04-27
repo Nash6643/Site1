@@ -12,7 +12,7 @@ const Footer = () => {
           <AppThemeSwitcher />
         </div>
       </div>
-      <div className="flex items-center gap-4 pb-2 text-small text-muted">
+      <div className="flex items-center gap-4 pb-2 text-muted text-small">
         <Link href="https://github.com/WUFAZA/Minisite_01" text="GitHub" underline />
         <Link href="https://twitter.com/" text="Twitter" underline />
         <Link href="/guides" text="Guides" underline />
